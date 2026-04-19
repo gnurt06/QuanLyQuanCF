@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\QuanLiQuanCF\QuanLiQuanCF\obj\Debug\QuanLiQuanCF.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QuanLiQuanCF\QuanLiQuanCF\obj\Debug\QuanLiQuanCF.frmBanHang.resources
+C:\Users\Admin\source\repos\QuanLiQuanCF\QuanLiQuanCF\obj\Debug\QuanLiQuanCF.frmHoaDon.resources
+C:\Users\Admin\source\repos\QuanLiQuanCF\QuanLiQuanCF\obj\Debug\QuanLiQuanCF.frmKhoHang.resources
+C:\Users\Admin\source\repos\QuanLiQuanCF\QuanLiQuanCF\obj\Debug\QuanLiQuanCF.frmLogin.resources
+C:\Users\Admin\source\repos\QuanLiQuanCF\QuanLiQuanCF\obj\Debug\QuanLiQuanCF.frmMain.resources
+C:\Users\Admin\source\repos\QuanLiQuanCF\QuanLiQuanCF\obj\Debug\QuanLiQuanCF.frmThongKe.resources
+C:\Users\Admin\source\repos\QuanLiQuanCF\QuanLiQuanCF\obj\Debug\QuanLiQuanCF.frmThongTin.resources
+C:\Users\Admin\source\repos\QuanLiQuanCF\QuanLiQuanCF\obj\Debug\QuanLiQuanCF.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QuanLiQuanCF\QuanLiQuanCF\bin\Debug\QuanLiQuanCF.exe.config
+C:\Users\Admin\source\repos\QuanLiQuanCF\QuanLiQuanCF\bin\Debug\QuanLiQuanCF.exe
+C:\Users\Admin\source\repos\QuanLiQuanCF\QuanLiQuanCF\bin\Debug\QuanLiQuanCF.pdb
+C:\Users\Admin\source\repos\QuanLiQuanCF\QuanLiQuanCF\obj\Debug\QuanLiQuanCF.Properties.Resources.resources
+C:\Users\Admin\source\repos\QuanLiQuanCF\QuanLiQuanCF\obj\Debug\QuanLiQuanCF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QuanLiQuanCF\QuanLiQuanCF\obj\Debug\QuanLiQuanCF.exe
+C:\Users\Admin\source\repos\QuanLiQuanCF\QuanLiQuanCF\obj\Debug\QuanLiQuanCF.pdb
